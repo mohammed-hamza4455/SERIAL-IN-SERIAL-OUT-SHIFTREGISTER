@@ -1,4 +1,6 @@
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+# EXP10:SERIAL IN SERIAL OUT SHIFT REGISTER
+## NAME:MOHAMMED HAMZA
+## REG NO:24900511
 
 **AIM:**
 
@@ -28,6 +30,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 /* write all the steps invloved */
 
 **PROGRAM**
+![SERIAL IN SERIAL OUT CODE](https://github.com/user-attachments/assets/3ee3ebfc-a3d8-474e-8e6f-1dd5a2aa57a0)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
@@ -36,7 +39,9 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR SISO Shift Register**
+![SERIAL IN SERIAL OUT DIAGRAM](https://github.com/user-attachments/assets/ffbd180e-ed2f-459e-b4e5-e58a7705401d)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+![SERIAL IN SERIAL OUT WAVEFORM](https://github.com/user-attachments/assets/c15a1136-5690-4b45-85e8-41362af45606)
 
 **RESULTS**
